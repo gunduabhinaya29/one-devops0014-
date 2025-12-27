@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>AbhiShop — Modern E‑Commerce</title>
+    <title>AbhinayaShop — Modern E‑Commerce</title>
 
     <!-- Fonts & Icons -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
@@ -517,7 +517,7 @@
             <div style="display:flex;align-items:center;gap:18px;">
                 <button class="mobile-toggle" id="mobileToggle" aria-label="Open menu"><em class="fas fa-bars"></em></button>
                 <a class="brand" href="#">
-                    <span>Abhi<span class="accent">Shop</span></span>
+                    <span>Abhinaya<span class="accent">Shop</span></span>
                 </a>
             </div>
 
@@ -695,7 +695,7 @@
     <footer>
         <div class="container" style="display:flex;flex-wrap:wrap;gap:28px;align-items:flex-start;justify-content:space-between">
             <div style="max-width:360px">
-                <div style="font-weight:700;font-size:18px">AbhiShop</div>
+                <div style="font-weight:700;font-size:18px">AbhinayaShop</div>
                 <p class="muted" style="margin-top:8px">A modern e-commerce demo built with HTML, CSS & JavaScript.</p>
                 <div style="margin-top:14px;display:flex;gap:10px">
                     <a class="icon-btn" href="#" title="Facebook"><em class="fab fa-facebook"></em></a>
@@ -716,7 +716,7 @@
             </div>
         </div>
 
-        <div style="text-align:center;margin-top:22px;color:var(--muted);font-size:13px">© <span id="year"></span> AbhiShop. All rights reserved.</div>
+        <div style="text-align:center;margin-top:22px;color:var(--muted);font-size:13px">© <span id="year"></span> AbhinayaShop. All rights reserved.</div>
     </footer>
 
     <script>
